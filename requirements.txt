@@ -1,0 +1,7 @@
+bs4
+pandas
+fpdf2==2.6.0
+PyPDF2
+matplotlib
+Pillow
+html2image
